@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+
+html, body, #root
+{
+   margin: 0px;
+   padding: 0px;
+   height: 100%;
+   width: 100%;
+   background-image: url("./image.png");
+   overflow: hidden;
+}
+
+.gameTitle{
+   color: white;
+   position: relative;
+   top:30px;
+   padding: 10px;
+   margin: 10px;
+}
+
+.startGameButton, .gameWonButton, .mobileControls{
+  position: relative;
+  padding: 10px;
+  margin: 20px;
+  top: 10px;
+  background: none;
+  border:none;
+     border:solid 2px white;
+     border-radius: 5px;
+     color: white;
+}
+
+.startGameButton:hover, .gameWonButton:hover,  .mobileControls:hover {
+  background:black;
+  color:white; 
+  cursor: pointer; 
+}
+
+.fetching, .loadingSceneTitle{
+  color: white;
+   position: relative;
+   top:30px;
+   padding: 10px;
+   margin: 10px;
+}
+
+.gameWonTitle{
+  color: white;
+   position: relative;
+   top:30px;
+   padding: 10px;
+   margin: 10px;
+}
