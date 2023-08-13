@@ -1,6 +1,6 @@
 # Procedural-3D-Maze-Generator
 
-![main_gif](https://github.com/irrevocablesake/Procedural-3D-Maze-Generator/blob/main/video_example/output.mp4)
+![main_gif](https://github.com/irrevocablesake/Procedural-3D-Maze-Generator/blob/main/video_example/output_compressed.mp4)
 
 This is a Procedural 3D Maze Generator, all of the things you see above are created in code, programmmed in the following technologies:
 **Languages:** Python, Javascript, HTML, CSS, C++
