@@ -21,3 +21,5 @@ The Maze parameters are highly customizable, examples of customizable properties
 4) Lights: Colors, position, size
 
 Initially, I had put these on the frontend, so the user themselves can adjust these parameters, but soon I realized that: "The more customizable a website is, the more complex it becomes to use" ~ And my agenda was to produce a simple "on-click" start game, that produces "fully procedural mazes" ~ that is new mazes everytime
+
+If you want to see a small gameplay video of around 1 min, visit this folder: ![video example](https://github.com/irrevocablesake/Procedural-3D-Maze-Generator/blob/main/video_example/) .It will download that file, because Github cannot render the video, it's a safe file!
