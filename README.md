@@ -2,6 +2,8 @@
 
 ![main_image](https://github.com/irrevocablesake/Procedural-3D-Maze-Generator/blob/main/images/final_render.png)
 
+*Code Clean Up is Pending*
+
 This is a Procedural 3D Maze Generator, all of the things you see above are created in code, programmmed in the following technologies:
 
 **Languages:** Python, Javascript, HTML, CSS, C++
